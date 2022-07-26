@@ -1,0 +1,12 @@
+{
+  "name": "bloomxstudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./dist/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
